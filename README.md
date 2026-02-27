@@ -1,11 +1,6 @@
-﻿# QA Portfolio – Camila Holanda
+# My Journey in Software Quality Assurance
 
-Repositório com foco em:
-- documentação de QA
-- execução de testes
-- organização de processos
-- visão estratégica de qualidade
-- evolução técnica
+Espaço dedicado à qualidade de software com foco estratégico e evolução técnica.
 
 Estrutura do repositório:
 
